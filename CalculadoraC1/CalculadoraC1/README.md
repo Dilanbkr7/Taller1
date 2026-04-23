@@ -1,2 +1,2 @@
-# Calculadora_Taller1_PerezAlessia
+# Taller 1 - Calculadora
 Aplicaciones distribuidas - Calculadora
